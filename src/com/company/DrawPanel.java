@@ -7,6 +7,8 @@ import java.util.Random;
 
 public class DrawPanel extends JPanel {
 
+    ///////////////////////////
+
     private ArrayList<Grass> grass;
     public DrawPanel() {
         Random r = new Random();
